@@ -7,11 +7,18 @@ h1, h3 {
     color: darkolivegreen;
 }
 
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+    font-weight: 500;
+}
+
 
 li, a:link {
     padding: 5px;
     text-decoration: none;
     color: green;
-    
+
 }
+
 
